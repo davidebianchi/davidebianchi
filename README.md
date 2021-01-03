@@ -23,11 +23,9 @@ Passionate about code.
 
 ### 📈 Github Stats
 
-<p align="center">
-  <a href="https://github.com/davidebianchi/davidebianchi">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidebianchi&theme=dark&show_icons=true" />
-  </a>  
-</p>
+<a href="https://github.com/davidebianchi/davidebianchi">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidebianchi&theme=dark&show_icons=true" />
+</a>  
 
 
 <!-- Resources: -->
