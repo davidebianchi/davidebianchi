@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📖 Bio
+
+I'm a software developer from Italy. I'm currently working at Mia-Platform. 
+
+Passionate about code. 
+
+### 📈 Github Stats
+
+<a href="https://github.com/davidebianchi/davidebianchi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidebianchi&theme=dark&show_icons=true" />
+</a> 
+
+<!-- Resources -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
