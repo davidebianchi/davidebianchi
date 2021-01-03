@@ -23,9 +23,12 @@ Passionate about code.
 
 ### 📈 Github Stats
 
-<a href="https://github.com/davidebianchi/davidebianchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidebianchi&theme=dark&show_icons=true" />
-</a> 
+<p align="center">
+  <a href="https://github.com/davidebianchi/davidebianchi">
+    <img src="https://github-readme-stats.vercel.app/api?username=davidebianchi&theme=dark&show_icons=true" />
+  </a>  
+</p>
 
-<!-- Resources -->
+
+<!-- Resources: -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
