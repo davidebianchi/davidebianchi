@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ### 📖 Bio
 
-I'm a software developer from Italy. I'm currently working at Mia-Platform. 
-
-Passionate about code. 
+I'm a software developer from Italy with a passion for open-source technologies, cloud computing and AI. I'm currently working at Red Hat.
 
 ### 📈 Github Stats
 
